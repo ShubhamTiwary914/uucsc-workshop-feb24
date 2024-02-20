@@ -23,6 +23,11 @@ Install [Node.js](https://nodejs.org/en/download)
   npm install express
 ```
 
+> Run a Node.js File
+```
+  node <file-name>
+```
+
 <br>
 
 
